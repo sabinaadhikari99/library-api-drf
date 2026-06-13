@@ -1,0 +1,15 @@
+[project]
+name = "library-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "django>=5.2.15",
+    "django-environ>=0.13.0",
+    "django-jazzmin>=3.0.4",
+    "djangorestframework>=3.17.1",
+    "djangorestframework-simplejwt>=5.5.1",
+    "drf-yasg>=1.21.15",
+    "pillow>=12.2.0",
+]
