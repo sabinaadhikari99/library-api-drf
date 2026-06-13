@@ -144,10 +144,15 @@ flowchart LR
     Create_Book --> Save_DB
     Save_DB --> List_Update_Delete
 ```
-![alt text](image.png)
+<img width="1610" height="471" alt="image" src="https://github.com/user-attachments/assets/b064112f-d8f2-49e7-bee2-502b427887bd" />
+
+<img width="1477" height="794" alt="image" src="https://github.com/user-attachments/assets/b1a4d805-1bba-419e-9f95-51dbaa44c499" />
 
 
-![alt text](image-7.png)
+
+
+
+
 
 ## Member Module Flow
 ```mermaid
