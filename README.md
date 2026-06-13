@@ -160,10 +160,9 @@ flowchart LR
     Create_Member --> Store_in_DB
     Store_in_DB --> Used_in_Loan_System
 ```
+<img width="1468" height="362" alt="image" src="https://github.com/user-attachments/assets/56e51cc1-ea63-4d1a-8350-75690671f6fb" />
 
-![alt text](image-1.png)
 
-![alt text](image-8.png)
 
 ## Loan (Borrow System) Flow
 ```mermaid
@@ -174,15 +173,17 @@ flowchart LR
     Create_Loan --> Reduce_Stock
     Reduce_Stock --> Send_Email
 ```
-![alt text](image-2.png)
+<img width="1551" height="539" alt="image" src="https://github.com/user-attachments/assets/d905f260-ff8f-4821-928c-ff75402bbcd2" />
 
-![alt text](image-9.png)
+
+<img width="1275" height="781" alt="image" src="https://github.com/user-attachments/assets/b9a4c81e-0ff5-4264-8da6-0fa72566ae12" />
 
 
 ## File Upload Flow
  Uses Django send_mail + SMTP (Gmail)
 
- ![alt text](image-3.png)
+ <img width="1673" height="756" alt="image" src="https://github.com/user-attachments/assets/b41605a5-cafa-4f0a-aa34-27bba1416382" />
+
 
 
  ## What is DRF Router (Routing System)
@@ -332,11 +333,12 @@ Generate an App Password
 Use App Password instead of your normal Gmail password
 
 ```
-![alt text](image-4.png)
+<img width="1401" height="783" alt="image" src="https://github.com/user-attachments/assets/f969026e-fe9f-41f9-837d-c4a8c88b8658" />
 
-![alt text](image-5.png)
+<img width="478" height="519" alt="image" src="https://github.com/user-attachments/assets/8c262d70-6f23-4abb-a522-87a4e43e94c7" />
 
-![alt text](image-6.png)
+<img width="478" height="519" alt="image" src="https://github.com/user-attachments/assets/38e31853-2ab5-4c71-81ca-fce8af455335" />
+
 
 
 
